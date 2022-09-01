@@ -8,4 +8,9 @@ body {
     border: 3px solid white;
     margin-top: 20px;
     display: none;
+    padding: 2em;
+}
+
+#hours {
+    font-size: x-large;
 }
