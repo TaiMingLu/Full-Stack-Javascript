@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: "/Full-Stack-Javascript/",
+    base: "/Full-Stack-Javascript/BrickBreaker/",
 });
