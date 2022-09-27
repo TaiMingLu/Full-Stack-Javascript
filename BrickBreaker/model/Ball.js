@@ -31,8 +31,6 @@ class Ball extends Sprite {
     }
 
 
-
-
 }
 
 export default Ball;
